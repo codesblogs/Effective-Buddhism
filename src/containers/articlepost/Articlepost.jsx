@@ -15,7 +15,7 @@ const Articlepost = () => {
       </div>
       <div className='buddh__articlepost-body'>
         <p>
-<h3 className='gradient__text'>Let’s break them down.</h3><p></p>
+Let’s break them down.<br />
 1. To save all people: this is by far the biggest vow that is failed to be recognized by modern Buddhist society. Outreach is a non-factor. So many people who need this valuable information are left in the dark, with no outreach from Buddhists. Actual progress using technology (tools to increase impact) are completely disregarded.<br></br>
 2. Many people have regarded this initial vow as meaning to renounce. But here’s what the true text says “**Desires** for tangible things (such as wealth, property, or other material goods) or for pleasures of the body (such as sexual activity, gluttony, or other hedonistic pursuits). Buddhism teaches us to try to let go of our **worldly desires**, freeing our minds and bodies for a state of enlightenment.”As it says, freeing our minds and bodies for a state of enlightenment.<br />
 3. Learning all teachings requires knowing all things, we do not even know how consciousness works yet. To learn all teachings, we need to learn by the act of doing. There is no better thing to learn at this time, than how to spread change like Buddha did.<br />

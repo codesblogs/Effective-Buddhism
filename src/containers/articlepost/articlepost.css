@@ -35,3 +35,23 @@
     line-height: 30px;
     color: #FF8A71;
 }
+
+@media screen and (max-width: 990px) {
+    .buddh__articlepost {
+        flex-direction: column;
+    }
+
+    .buddh__articlepost-body {
+        margin: 0 0 2rem 0;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .buddh__articlepost-heading h1{
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .buddh__articlepost-image img{
+        transform: scale(0.6);
+    }
+}

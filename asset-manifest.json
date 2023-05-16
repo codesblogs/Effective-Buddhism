@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Effective-Buddhism/static/css/main.ca289d6e.css",
-    "main.js": "/Effective-Buddhism/static/js/main.d854df0c.js",
+    "main.css": "/Effective-Buddhism/static/css/main.9f8b0637.css",
+    "main.js": "/Effective-Buddhism/static/js/main.69c95559.js",
     "static/js/787.27c2d1e9.chunk.js": "/Effective-Buddhism/static/js/787.27c2d1e9.chunk.js",
     "static/media/logo.png": "/Effective-Buddhism/static/media/logo.2e600eef6a0719004df2.png",
     "static/media/Buddha02.png": "/Effective-Buddhism/static/media/Buddha02.5c56dbfcf6ff0bf35800.png",
@@ -14,12 +14,12 @@
     "static/media/buddha03.jpg": "/Effective-Buddhism/static/media/buddha03.f8122f92c40f8d00e0c7.jpg",
     "static/media/people.png": "/Effective-Buddhism/static/media/people.5cd2d6fbcd48bd63f106.png",
     "index.html": "/Effective-Buddhism/index.html",
-    "main.ca289d6e.css.map": "/Effective-Buddhism/static/css/main.ca289d6e.css.map",
-    "main.d854df0c.js.map": "/Effective-Buddhism/static/js/main.d854df0c.js.map",
+    "main.9f8b0637.css.map": "/Effective-Buddhism/static/css/main.9f8b0637.css.map",
+    "main.69c95559.js.map": "/Effective-Buddhism/static/js/main.69c95559.js.map",
     "787.27c2d1e9.chunk.js.map": "/Effective-Buddhism/static/js/787.27c2d1e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca289d6e.css",
-    "static/js/main.d854df0c.js"
+    "static/css/main.9f8b0637.css",
+    "static/js/main.69c95559.js"
   ]
 }
